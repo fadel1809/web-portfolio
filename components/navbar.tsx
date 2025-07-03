@@ -4,7 +4,6 @@ import Link from "next/link";
 import { Button } from "./ui/button";
 import { Menu } from "lucide-react";
 import { Sheet,SheetContent, SheetTrigger,SheetClose } from "./ui/sheet";
-import { header } from "framer-motion/client";
 import { Poppins } from "next/font/google";
 const poppinsFont = Poppins({
   subsets:["latin"],

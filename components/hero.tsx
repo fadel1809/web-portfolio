@@ -1,7 +1,7 @@
 "use client";
-import { Facebook, Instagram, Linkedin, MessageCircleMore,File, Github } from "lucide-react";
+import {  Linkedin, MessageCircleMore,File, Github } from "lucide-react";
 
-import { easeIn, motion } from "framer-motion";
+import { motion } from "framer-motion";
 
 const Hero = () => {
   return (

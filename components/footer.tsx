@@ -1,6 +1,6 @@
 "use client";
 
-import { Mail, Github, Linkedin } from "lucide-react";
+import {  Github, Linkedin } from "lucide-react";
 import { useState } from "react";
 
 export default function FooterSection() {
